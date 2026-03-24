@@ -1,0 +1,8 @@
+# Формат: имя_при_скачивании|путь_от_Paks|url
+RussianLoc_10_P.pak|RussianLoc_10_P.pak|https://github.com/Sidiusz/G2RuLocStandstone/raw/refs/heads/main/RussianLoc_10_P.pak?download=
+RussianLoc_10_P.ucas|RussianLoc_10_P.ucas|https://github.com/Sidiusz/G2RuLocStandstone/raw/refs/heads/main/RussianLoc_10_P.ucas?download=
+RussianLoc_10_P.utoc|RussianLoc_10_P.utoc|https://github.com/Sidiusz/G2RuLocStandstone/raw/refs/heads/main/RussianLoc_10_P.utoc?download=
+
+# Пример файла не в Paks а в Content/Movies/
+# file.json скачается во временную папку, затем переместится в Content\Movies\augusta_intro_1080p60.bk2
+# augusta_intro_1080p60.bk2|..\Movies\augusta_intro_1080p60.bk2|https://github.com/Sidiusz/G2RuLocStandstone/raw/refs/heads/main/augusta_intro_1080p60.bk2?download=
